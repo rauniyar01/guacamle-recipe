@@ -2,6 +2,6 @@
 
 List of ingredients
 
-List of Instructions
+List of instructions
 
 By **Ashish Rauniyar** on 24th May 2017
