@@ -1,4 +1,4 @@
 * avocado
 * white onion
 * salt
-* limes
+* lime
