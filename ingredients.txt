@@ -1,2 +1,3 @@
-avocado
-white onion
+* avocado
+* white onion
+* salt
