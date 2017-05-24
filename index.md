@@ -1,4 +1,4 @@
-# Website for s simple guacamole recipe
+# Website for Simple Guacamole Recipe
 
 List of ingredients
 
